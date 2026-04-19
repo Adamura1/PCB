@@ -3136,7 +3136,7 @@ Nick Garner - TeleSense</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="NORDIC_NRF_3_CAPACITOR" uservalue="yes" library_version="4">
+<deviceset name="NORDIC_NRF_3_CAPACITOR" uservalue="yes" library_version="5">
 <description>&lt;b&gt;Generic chip capacitor&lt;/b&gt;</description>
 <gates>
 <gate name="C$1" symbol="NORDIC_NRF_3_C-EU" x="0" y="0"/>

@@ -273,7 +273,7 @@
 <wire x1="-2.425" y1="1.25" x2="-2.425" y2="-1.25" width="0.2" layer="21"/>
 <wire x1="-2.425" y1="-1.25" x2="1.5" y2="-1.25" width="0.2" layer="21"/>
 </package>
-<package name="NORDIC_NRF_3_RESC0201_L" library_version="4">
+<package name="NORDIC_NRF_3_RESC0201_L" library_version="2">
 <description>&lt;b&gt;0201&lt;/b&gt; chip&lt;p&gt;
 0201 (imperial)&lt;br/&gt;
 0603 (metric)&lt;br/&gt;
